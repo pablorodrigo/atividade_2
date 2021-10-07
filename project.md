@@ -68,14 +68,14 @@ Os atores devem estar com o Software instalado no seu dispositivo.
 
 **Prototipação**
 
-![](images/01.png)
-![](images/02.png)
-![](images/03.png)
-![](images/04.png)
-![](images/05.png)
-![](images/06.png)
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/01.png" width="200" alt="Tela Inicial"/>
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/02.png" width="200" alt="Tela de busca"/>
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/03.png" width="200" alt="Tela busca de um item"/>
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/04.png" width="200" alt="Tela Listagem por loja"/>
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/05.png" width="200" alt="Tela Listagem por items"/>
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/06.png" width="200" alt="Tela mensagem item não encontrado"/>
 
 
 **Diagrama**
 
-![](RackMultipart20211007-4-1yuu05v_html_e63b31f0f1c9cc6.png)
+<img src="https://raw.githubusercontent.com/pablorodrigo/atividade_2/master/images/07.png" width="200" alt="Diagrama caso de uso"/>
